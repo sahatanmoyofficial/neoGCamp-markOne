@@ -1,7 +1,7 @@
 # markOne Assignment
 ---
 
-This is my version pf the solution for the markOne assignment.
+This is my version of the solution for the markOne assignment.
 
 **Following are some of the highlights from my code:**
 1. *Questions taken : 5*
@@ -16,7 +16,7 @@ This is my version pf the solution for the markOne assignment.
 
 > Secret to win this game: Read newspaper daily.
 >
-> --<cite>Tanmoy Saha</cite>
+> --<cite>*Tanmoy Saha*</cite>
 
 ---
 
